@@ -1,7 +1,9 @@
-# RDD_age_disc
+# LocalLab
 Replication package of the project
-'Age discontinuity and nonemployment benefit policy evaluation through the lens of job search theory'
-by [Bruno Decreuse](https://sites.google.com/site/brunodecreuseecon/) (Aix-Marseille Univ.) and [Guillaume Wilemme](https://gwilemme.github.io/) (Univ. of Leicester).
+'Local Labor Market Dynamics and Agglomeration Effects'
+by [Pierre Deschamps](https://sites.google.com/site/pierredeschampsecon/) (SOFI) and [Guillaume Wilemme](https://gwilemme.github.io/) (Univ. of Leicester).
+
+
 
 ### Structure of the repository
 This repository contains the Julia code used in the project and the data gathered from the four cases. The code is written with Jupyter notebooks and runs with Julia 1.9. GitHub can directly display these notebooks. When GitHub does not manage to display a notebook, we suggest using the url on GitHub with the viewer https://nbviewer.jupyter.org/.
